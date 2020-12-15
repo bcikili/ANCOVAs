@@ -6,4 +6,4 @@ Q: How does the presence or absence of an international phone plan (Internationa
 #Tests for ANCOVA assumptions
 #Runs an ANCOVA test
 #Interprets the ANCOVA results and drwas conclusion
-# Post hoc analysis 
+#Post hoc analysis 
